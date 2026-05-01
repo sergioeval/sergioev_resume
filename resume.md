@@ -17,7 +17,7 @@ Key achievements include:
 - Interested in growing into a technical leadership role for ETL and data engineering initiatives.
 
 ## Core Skills
-- **Languages & Tools:** Python, SQL, Pandas, NumPy, FastAPI, Flask, PySpark, SQLite, Selenium, Visual Basic, OpenCode, Pi, Hermes
+- **Languages & Tools:** Python, SQL, Pandas, NumPy, FastAPI, Flask, PySpark, SQLite, Selenium, Visual Basic, LLMs, OpenCode, Pi, Hermes
 - **Data & ETL:** ETL pipelines, data analysis, data transformation, SQL optimization, data lakes, process mining
 - **Automation:** RPA, workflow automation, reporting automation
 - **AI & LLMs:** Prompt engineering, LangChain, RAG, conversational AI, chatbot development
