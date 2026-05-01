@@ -4,7 +4,7 @@
 **Email:** sergioev@gmail.com
 
 ## Professional Title
-Software Developer · Data Scientist · ETL Engineer · Python Developer · Data Pipelines · Process Mining · SQL · RPA
+Software Developer · Data Scientist · ETL Engineer · Python Developer · Data Pipelines · Process Mining · SQL · RPA · OpenCode · Pi · Hermes
 
 ## Professional Profile
 Technology professional with 10 years of experience focused on data analysis, ETL development, process automation, and business-focused technical solutions. Strong background building efficient data pipelines with Python, Pandas, NumPy, and SQL, improving operational performance and reducing manual effort across multiple business units.
@@ -17,7 +17,7 @@ Key achievements include:
 - Interested in growing into a technical leadership role for ETL and data engineering initiatives.
 
 ## Core Skills
-- **Languages & Tools:** Python, SQL, Pandas, NumPy, FastAPI, Flask, PySpark, SQLite, Selenium, Visual Basic
+- **Languages & Tools:** Python, SQL, Pandas, NumPy, FastAPI, Flask, PySpark, SQLite, Selenium, Visual Basic, OpenCode, Pi, Hermes
 - **Data & ETL:** ETL pipelines, data analysis, data transformation, SQL optimization, data lakes, process mining
 - **Automation:** RPA, workflow automation, reporting automation
 - **AI & LLMs:** Prompt engineering, LangChain, RAG, conversational AI, chatbot development
