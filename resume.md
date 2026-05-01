@@ -1,7 +1,6 @@
 # Sergio Estrada Valenzuela
 
 **LinkedIn:** https://www.linkedin.com/in/sergioestradav/  
-**Phone:** +52 33 2821 1758  
 **Email:** sergioev@gmail.com
 
 ## Professional Title
